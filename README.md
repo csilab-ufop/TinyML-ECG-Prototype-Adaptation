@@ -3,8 +3,7 @@
 Code, measured results, manuscript, and video graphical abstract for the revised IEEE *Embedded Systems Letters* manuscript by Guilherme Silva, Pedro Silva, Gladston Moreira, and Eduardo Luz. This is a revision package; journal acceptance and a DOI have not yet been assigned.
 
 - [Revised four-page manuscript](paper/main.pdf)
-- [Video graphical abstract](paper/video_abstract/video_abstract.mp4), [overlay](paper/video_abstract/overlay.png), and [caption](paper/video_abstract/caption.txt)
-- [Machine-readable results](results/revision_round1/summary.json)
+- [Video graphical abstract](paper/video_abstract/video_abstract.mp4), and [overlay](paper/video_abstract/overlay.png)
 
 ## What was measured
 
