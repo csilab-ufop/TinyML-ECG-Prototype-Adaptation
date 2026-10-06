@@ -84,7 +84,6 @@ Programming changes the connected board. The [captured UART logs](results/firmwa
 | `firmware/psoc6/` | Native-C backbone and heads, replay application, exported headers, and ModusToolbox setup |
 | `results/offline/` | Full eligible-DS2 per-record evaluations |
 | `results/firmware/` | Replay manifests, host/device scores, raw UART captures, and DWT cycles |
-| `results/revision_round1/` | Consolidated revision numbers, paired normal-only ablation, and DS1 SGD sensitivity |
 | `ui/`, `docs/` | Optional ECG demonstration and hardware documentation |
 
 The full firmware image includes board support and flash-resident replay data. The published model-centric memory budget is not a measurement of the complete image. For methodological limitations and the scope of comparison with richer prototype estimators, see the [manuscript](paper/main.pdf).
